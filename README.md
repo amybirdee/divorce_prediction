@@ -5,7 +5,7 @@ Divorce prediction using Gottman survey data
 
 - Despite the small sample size, the data turned out to be highly predictive, allowing multiple models to converge on similar performance metrics and produce stable, interpretable results. The goal of the project was not only to build classifiers, but to understand which aspects of a relationship are most strongly associated with divorce
 
-- The project performs exploratory data analysis on relationship survey responses and goes on to train and evaluate multiple ML models: Logisitic Regression, Random Forest and XG Boost
+- The project performs exploratory data analysis on relationship survey responses and goes on to train and evaluate multiple ML models: Logistic Regression, Random Forest and XG Boost
 
 - The strongest indicators of divorce were breakdowns in shared meaning, future orientation, emotional understanding and conflict regulation
 
