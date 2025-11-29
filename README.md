@@ -7,6 +7,6 @@ Divorce prediction using Gottman survey data
 
 - The project performs exploratory data analysis on relationship survey responses and goes on to train and evaluate multiple ML models: Logisitic Regression, Random Forest and XG Boost
 
-- The strongest indicators of divorce were breakdowns in shared meaning, future orientation, emotional understanding and conflict regulation.
+- The strongest indicators of divorce were breakdowns in shared meaning, future orientation, emotional understanding and conflict regulation
 
-- The consistency of feature importance across all models suggests that these underlying relational dimensions play a decisive role in long-term marital stability.
+- The consistency of feature importance across all models suggests that these underlying relational dimensions play a decisive role in long-term marital stability
